@@ -3,6 +3,7 @@ Below add some helpful commands that you regularly use, what they do and what th
 
 
 #sfc /scannow, System file checker will help repair the Windows OS.
+
 sfc /scannow
 
 
