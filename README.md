@@ -7,4 +7,5 @@ sfc /scannow
 
 
 #Powershell Command: Below will reinstall your Windows 10 Apps, in case they mess up. Do note that this will help fix your start menu, in case it messes up and does not seem to function. 
+
 Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"
