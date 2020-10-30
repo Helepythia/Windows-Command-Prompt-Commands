@@ -22,3 +22,7 @@ ipconfig /flushdns
 ipconfig /registerdns
 ipconfig /release
 ipconfig /renew
+
+
+15 commands you must know
+https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/
